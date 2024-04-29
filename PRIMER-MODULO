@@ -8,6 +8,7 @@ const b = 12
 const c = 3
 const x = 5
 const y = 10
+const z = 50
 
-resultado = solverLineequatin(a, b, c, x, y)
+resultado = solverLineequatin(a, b, c, x, y, z)
 console.log(resultado)
