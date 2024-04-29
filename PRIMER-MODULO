@@ -1,0 +1,13 @@
+//trabajo//
+function solverLineequatin(a, b, c, x, y){
+    return a*x + b*y + c
+}
+ 
+const a = 4
+const b = 12
+const c = 3
+const x = 5
+const y = 10
+
+resultado = solverLineequatin(a, b, c, x, y)
+console.log(resultado)
