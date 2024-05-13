@@ -1,4 +1,4 @@
-//trabajo//
+//trabajo// //EDI 2024//
 function solverLineequatin(a, b, c, x, y){
     return a*x + b*y + c
 }
