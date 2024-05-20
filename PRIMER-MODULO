@@ -1,5 +1,5 @@
 //trabajo//
-function solverLineequatin(a, b, c, x, y){
+function solverLineequatin(a, b, c, x, y,z){
     return a*x + b*y + c
 }
  
