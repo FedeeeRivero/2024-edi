@@ -3,12 +3,12 @@ function solverLineequatin(a, b, c, x, y){
     return a*x + b*y + c
 }
  
-const a = 4
-const b = 12
-const c = 3
-const x = 5
-const y = 10
-const z = 50
+const a = 14
+const b = 22
+const c = 2
+const x = 7
+const y = 12
+const z = 55
 
 resultado = solverLineequatin(a, b, c, x, y, z)
 console.log(resultado)
