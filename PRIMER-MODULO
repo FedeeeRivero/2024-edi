@@ -14,3 +14,7 @@ const v = 100
 
 resultado = solverLineequatin(a, b, c, d,  v, x, y, z)
 console.log(resultado)
+//cambiando
+//cambios
+//cambiosos
+//cambiadores
