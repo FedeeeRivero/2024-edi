@@ -9,7 +9,7 @@ const c = 2
 const x = 7
 const y = 12
 const z = 55
-
+// declaramos variables 
 resultado = solverLineequatin(a, b, c, x, y, z)
 console.log(resultado)
 sadawds
@@ -17,3 +17,5 @@ sadawds
 //estoy
 //haciendo 
 //cambios
+// modificacion en la linea 6
+// 
