@@ -1,15 +1,16 @@
 //trabajo edi 2024//
-function solverLineequatin(a, b, c, v, x, y, z){
+function solverLineequatin(a, b, c, d,  v, x, y, z){
     return a*x + b*y + c
 }
  
 const a = 44
 const b = 1233
 const c = 33
+const d = 1
 const x = 51
 const y = 10222
 const z = 50
 const v = 100
 
-resultado = solverLineequatin(a, b, c, v, x, y, z)
+resultado = solverLineequatin(a, b, c, d,  v, x, y, z)
 console.log(resultado)
