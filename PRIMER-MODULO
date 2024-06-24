@@ -12,9 +12,4 @@ const z = 45
 
 resultado = solverLineequatin(a, b, c, x, y, z)
 console.log(resultado)
-sadawds
-//holi
-//estoy
-//haciendo 
-//cambios
-console.log (piola)
+
