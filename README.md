@@ -4,10 +4,10 @@ function solverLineequatin(a, b, c, x, y,z){
     return a*x + b*y + c
 }
  
-const a = 11
-const b = 21
-const c = 3
-const x = 8
+const a = 1
+const b = 31
+const c = 30
+const x = 22
 const y = 2
 const z = 4
 
