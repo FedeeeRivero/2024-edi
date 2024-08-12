@@ -3,7 +3,7 @@ function solverLineequatin(a, b, c, x, y,z){
     return a*x + b*y + c
 }
  
-const a = 11
+const a = 12
 const b = 21
 const c = 3
 const x = 8
