@@ -4,7 +4,7 @@ function solverLineequatin(a, b, c, d,  v, x, y, z){
 }
  
 const a = 44
-const b = 1233
+const b = 17
 const c = 33
 const d = 1
 const x = 51
